@@ -1,0 +1,11 @@
+# ARM GCC build artifacts
+*.elf
+*.bin
+*.hex
+*.o
+*.d
+*.map
+*.lst
+
+# Build output directories
+build/
