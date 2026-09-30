@@ -113,4 +113,4 @@ arm-none-eabi-objcopy -O binary bootloader.elf bootloader.bin
 **Vila Ram Varshit**  
 - **LinkedIn:** [linkedin.com/in/ram-varshit-ece](https://www.linkedin.com/in/ram-varshit-ece/)  
 - **GitHub:** [github.com/varshitram7-oss](https://github.com/varshitram7-oss)  
-- **Email:** ramvarshit18@gmail.com
+- **Email:** ramvarshith18@gmail.com
